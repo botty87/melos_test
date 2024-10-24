@@ -1,3 +1,7 @@
+## 1.3.0
+
+ - **FEAT**: added app 2.
+
 ## 1.2.1
 
  - Update a dependency to the latest release.

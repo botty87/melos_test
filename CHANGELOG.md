@@ -15,6 +15,32 @@ Packages with breaking changes:
 
 Packages with other changes:
 
+ - [`app_test` - `v1.3.0`](#app_test---v130)
+ - [`app_test_2` - `v1.2.0`](#app_test_2---v120)
+
+---
+
+#### `app_test` - `v1.3.0`
+
+ - **FEAT**: added app 2.
+
+#### `app_test_2` - `v1.2.0`
+
+ - **FEAT**: added app 2.
+
+
+## 2024-10-24
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
+ - There are no breaking changes in this release.
+
+Packages with other changes:
+
  - [`widget_test` - `v1.3.0`](#widget_test---v130)
  - [`app_test` - `v1.2.1`](#app_test---v121)
 
