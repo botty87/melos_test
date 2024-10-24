@@ -11,18 +11,10 @@
             "type": "dart"
         },
         {
-            "name": "app_test (profile mode)",
-            "cwd": "apps/app_test",
+            "name": "app_test_2",
+            "cwd": "apps/app_test_2",
             "request": "launch",
-            "type": "dart",
-            "flutterMode": "profile"
-        },
-        {
-            "name": "app_test (release mode)",
-            "cwd": "apps/app_test",
-            "request": "launch",
-            "type": "dart",
-            "flutterMode": "release"
+            "type": "dart"
         },
     ]
 }
